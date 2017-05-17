@@ -1,0 +1,6 @@
+{
+  "query": "Data Mining",
+  "count": 10,
+  "filter": "enriched_text.entities:(relevance>0.8,text::Data Mining)",
+  "return":"title,text,price"
+}
